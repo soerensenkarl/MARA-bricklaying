@@ -1,0 +1,5 @@
+bosdyn-api==5.0.1.1
+bosdyn-client==5.0.1.1
+bosdyn-core==5.0.1.1
+bosdyn-mission==5.0.1.1
+protobuf==6.33.0

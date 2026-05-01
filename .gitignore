@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+spot-env/
+spot-sdk/
+.env
+*.env
+*creds*.txt
+*credentials*.txt
+*token*.txt
+*.log
+*.rhl
+Thumbs.db
+.DS_Store
