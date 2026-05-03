@@ -1,5 +1,7 @@
 # MARA Bricklaying
 
+![Outdoor stacking demo](outdoor_stacking_demo.gif)
+
 Code and raw experimental data for **Towards Autonomous Bricklaying Using Boston Dynamics Spot**.
 
 MARA, Mobile Agile Robotic Assembly, is a workflow for autonomous brick stacking with a Boston Dynamics Spot robot and arm. The system uses AprilTag fiducials for local pick/place reference frames, Spot Autowalk missions for navigation between the supply and assembly areas, and CAD-exported JSON target poses for execution.
